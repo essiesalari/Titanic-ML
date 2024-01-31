@@ -37,7 +37,7 @@ The dataset includes the following key features:
 - Matplotlib
 
 ## Results
-The best model achieved an accuracy of 91.48% on the test set. The ROC curve and other evaluation metrics are included in the Jupyter notebook.
+The best model achieved an accuracy of 93.26% on the test set. The ROC curve and other evaluation metrics are included in the Jupyter notebook.
 
 ## License
 This project is licensed under the MIT License.
