@@ -40,7 +40,7 @@ The dataset includes the following key features:
 The best model achieved an accuracy of 91.48% on the test set. The ROC curve and other evaluation metrics are included in the Jupyter notebook.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License.
 
 ## Contact
 If you have any questions, feel free to open an issue or send me a message at ehsan.sepahsalari@gmail.com.
