@@ -28,7 +28,7 @@ The dataset includes the following key features:
 - `Cabin`: Cabin number
 - `Embarked`: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
 - `Survived`: Survival status (0 = No, 1 = Yes)
-- 
+  
 ## Requirements
 - Python 3.6+
 - Scikit-learn
