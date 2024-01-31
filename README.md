@@ -28,3 +28,19 @@ The dataset includes the following key features:
 - `Cabin`: Cabin number
 - `Embarked`: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
 - `Survived`: Survival status (0 = No, 1 = Yes)
+- 
+## Requirements
+- Python 3.6+
+- Scikit-learn
+- Pandas
+- Numpy
+- Matplotlib
+
+## Results
+The best model achieved an accuracy of 91.48% on the test set. The ROC curve and other evaluation metrics are included in the Jupyter notebook.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Contact
+If you have any questions, feel free to open an issue or send me a message at ehsan.sepahsalari@gmail.com.
