@@ -37,7 +37,7 @@ The dataset includes the following key features:
 - Matplotlib
 
 ## Results
-Random Forest us the the best model achieved an accuracy of 92.06% on the test set. The ROC curve and other evaluation metrics are included in the Jupyter notebook. According to the model, "Sex" is most predictive.
+Random Forest is the the best model achieved an accuracy of 92.06% on the test set. The ROC curve and other evaluation metrics are included in the Jupyter notebook. According to the model, "Sex" is most predictive.
 
 ## License
 This project is licensed under the MIT License.
